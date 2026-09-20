@@ -1,30 +1,32 @@
 <div align="center">
 
+<!-- ==================== HERO ==================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0EA5E9,100:8B5CF6&text=SIM%20VIBOL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20%26%20Web%20Developer&descAlignY=58&descSize=20"/>
 
 # 👋 Hi, I'm **Sim Vibol**
 
-### 💻 Front-End & Web Developer
+### 🚀 Front-End & Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React.js+%7C+Next.js+Developer;Building+Modern+Web+Applications;Creating+Clean+%26+Responsive+UI;Exploring+AI+Integration;Future+Full-Stack+Developer" />
+<!-- Animated Typing Headline -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%F0%9F%92%BB+Front-End+Developer;%E2%9A%9B%EF%B8%8F+React.js+%7C+Next.js+Developer;%F0%9F%9A%80+Building+Modern+Web+Applications;%F0%9F%8E%A8+Creating+Clean+%26+Responsive+UI;%E2%9A%A1+Turning+Ideas+Into+Web+Experiences;%F0%9F%A4%96+Exploring+AI+Integration;%F0%9F%8C%B1+Becoming+a+Full-Stack+Developer" />
 
 <br/>
 
-<a href="https://github.com/vibol-YT">
-<img src="https://komarev.com/ghpvc/?username=vibol-YT&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
-</a>
+<!-- Profile Views -->
 
-<a href="https://github.com/vibol-YT?tab=followers">
+<img src="https://komarev.com/ghpvc/?username=vibol-YT&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/vibol-YT?label=FOLLOWERS&style=for-the-badge&color=8B5CF6"/>
-</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```javascript
 const vibol = {
@@ -33,40 +35,47 @@ const vibol = {
 
     education: "Software Development Student",
 
-    technologies: {
-        frontend: [
-            "React.js",
-            "Next.js",
-            "JavaScript",
-            "TypeScript",
-            "Tailwind CSS"
-        ],
-
-        backend: [
-            "Node.js",
-            "PHP",
-            "Laravel"
-        ],
-
-        database: [
-            "MySQL"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "Figma",
-            "VS Code"
-        ]
-    },
-
-    currentlyLearning: [
-        "Next.js",
-        "AI Integration",
+    focus: [
+        "Front-End Development",
+        "Modern Web Applications",
+        "Responsive UI/UX",
         "Full-Stack Development"
     ],
 
-    goal: "Become a professional Full-Stack Developer"
+    frontend: [
+        "React.js",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "PHP",
+        "Laravel"
+    ],
+
+    database: [
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Figma",
+        "VS Code",
+        "Docker"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "TypeScript",
+        "AI Integration"
+    ],
+
+    goal: "Become a Professional Full-Stack Developer"
 };
 ```
 
@@ -74,38 +83,40 @@ const vibol = {
 
 ---
 
-# 🚀 What I Do
+# ⚡ What I Do
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 Front-End Development
+## 🎨 Front-End Development
 
-Building modern and responsive interfaces using:
+I enjoy creating modern, responsive, and user-friendly interfaces.
 
 * ⚛️ React.js
 * ▲ Next.js
 * 🟦 TypeScript
 * 🎨 Tailwind CSS
 * 📱 Responsive Design
-* ✨ Modern UI/UX
+* ✨ UI/UX Implementation
+* 🧩 Reusable Components
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ Web Development
+## ⚙️ Web Development
 
-Building complete web applications with:
+I build full-stack web applications and REST APIs.
 
 * 🟢 Node.js
+* 🚂 Express.js
 * 🐘 PHP
 * 🔥 Laravel
 * 🗄️ MySQL
 * 🔌 REST APIs
-* 🔐 CRUD Systems
+* 📚 Swagger
 
 </td>
 
@@ -116,7 +127,7 @@ Building complete web applications with:
 
 # 🛠️ Tech Stack
 
-## 💻 Front-End
+## 🎨 Front-End
 
 <div align="center">
 
@@ -130,13 +141,13 @@ Building complete web applications with:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql" />
 
 </div>
 
 <br/>
 
-## 🧰 Tools
+## 🧰 Tools & Design
 
 <div align="center">
 
@@ -148,56 +159,62 @@ Building complete web applications with:
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 📦 Inventory Management System
 
-<a href="https://github.com/vibol-YT">
+A modern inventory management system for managing products, stock, categories, and inventory data.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vibol-YT&repo=inventory-system&theme=tokyonight&hide_border=true"/>
+### 🧩 Tech Stack
 
-</a>
+```text
+React.js
+Node.js
+Express.js
+MySQL
+Tailwind CSS
+REST API
+Swagger
+```
 
-</div>
-
-### 📦 Inventory Management System
-
-> A modern inventory management application for managing products, stock, categories, and inventory data.
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MySQL` `Tailwind CSS` `REST API`
-
-**Features**
+### ✨ Features
 
 * 📦 Product CRUD
-* 🏷️ Category management
-* 📊 Stock management
-* 🔎 Product search
+* 🏷️ Category Management
+* 📊 Stock Management
+* 🔎 Product Search
 * 📄 Pagination
 * 🔌 REST API
-* 📚 Swagger API documentation
+* 📚 Swagger API Documentation
+* 📱 Responsive Dashboard
 
 ---
 
-### 🛒 Product Management System
+## 🛒 Product Management System
 
-> Full-stack product management system built with a modern web stack.
+Full-stack product management application designed for managing products and inventory.
 
-**Tech Stack**
+### 🧩 Tech Stack
 
-`React.js` `Laravel` `MySQL` `Tailwind CSS`
+```text
+React.js
+Laravel
+MySQL
+Tailwind CSS
+REST API
+```
 
-**Features**
+### ✨ Features
 
-* Product management
-* Category management
-* Inventory tracking
-* Dashboard analytics
-* REST API integration
-* Responsive dashboard
+* 📦 Product Management
+* 🏷️ Category Management
+* 📊 Inventory Tracking
+* 📈 Dashboard Analytics
+* 🔌 REST API Integration
+* 📱 Responsive Dashboard
+* 🖼️ Product Image Upload
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -243,30 +260,84 @@ Building complete web applications with:
 
 <div align="center">
 
-|   Technology  | Focus                              |
-| :-----------: | :--------------------------------- |
-|  ⚛️ React.js  | Advanced Components & Architecture |
-|   ▲ Next.js   | Full-Stack Applications            |
-| 🟦 TypeScript | Type-Safe Development              |
-|     🤖 AI     | AI Integration in Web Apps         |
-|   🟢 Node.js  | REST API Development               |
-|   🗄️ MySQL   | Database Design                    |
-| ☁️ Deployment | Production Web Applications        |
+<table>
+
+<tr>
+<th>Technology</th>
+<th>Focus</th>
+</tr>
+
+<tr>
+<td>⚛️ React.js</td>
+<td>Advanced Components & Architecture</td>
+</tr>
+
+<tr>
+<td>▲ Next.js</td>
+<td>Full-Stack Web Applications</td>
+</tr>
+
+<tr>
+<td>🟦 TypeScript</td>
+<td>Type-Safe Development</td>
+</tr>
+
+<tr>
+<td>🤖 AI</td>
+<td>AI Integration in Web Applications</td>
+</tr>
+
+<tr>
+<td>🟢 Node.js</td>
+<td>REST API Development</td>
+</tr>
+
+<tr>
+<td>🗄️ MySQL</td>
+<td>Database Design & Optimization</td>
+</tr>
+
+<tr>
+<td>☁️ Deployment</td>
+<td>Production Web Applications</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 💡 My Development Philosophy
+# 💡 Development Philosophy
 
 <div align="center">
 
 ### **"Build it. Learn it. Improve it."**
 
-I believe the best way to become a better developer is to keep building,
-experimenting, learning from mistakes, and improving every project.
+💻 Build real projects <br/>
+📚 Learn new technologies <br/>
+🐛 Learn from mistakes <br/>
+🚀 Improve every day
 
 </div>
+
+---
+
+# 🌱 My Current Focus
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│   ⚛️ React.js                               │
+│   ▲ Next.js                                 │
+│   🟦 TypeScript                             │
+│   🟢 Node.js                                │
+│   🗄️ MySQL                                  │
+│   🤖 AI Integration                         │
+│   🚀 Full-Stack Development                 │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 
@@ -275,19 +346,19 @@ experimenting, learning from mistakes, and improving every project.
 <div align="center">
 
 <a href="https://github.com/vibol-YT">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
-  
+   
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
-  
+   
 
 <a href="https://facebook.com/your-facebook">
-<img src="https://skillicons.dev/icons?i=facebook" width="55"/>
+<img src="https://skillicons.dev/icons?i=facebook" width="60"/>
 </a>
 
 </div>
@@ -296,28 +367,34 @@ experimenting, learning from mistakes, and improving every project.
 
 <div align="center">
 
-### 💬 Open to
+### 💬 Open To
 
-`Internships` · `Freelance Projects` · `Collaboration` · `Open Source`
+`Internships` • `Freelance Projects` • `Collaboration` • `Open Source`
 
 </div>
 
 ---
 
-# 📫 Contact
+# 📫 Contact Me
 
 <div align="center">
 
-If you're interested in working together, feel free to connect with me.
-
-<br/>
-
 <a href="https://github.com/vibol-YT">
+
 <img src="https://img.shields.io/badge/GitHub-vibol--YT-181717?style=for-the-badge&logo=github"/>
+
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://facebook.com/your-facebook">
+
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+
 </a>
 
 </div>
@@ -326,8 +403,12 @@ If you're interested in working together, feel free to connect with me.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting My Profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:0F172A&height=120&section=footer"/>
+### 💻 Keep Building • Keep Learning • Keep Growing 🚀
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:0F172A&height=140&section=footer"/>
