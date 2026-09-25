@@ -1,16 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:0EA5E9,100:8B5CF6&text=SIM%20VIBOL&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SIM%20VIBOL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER&descAlignY=60&descSize=18&color=gradient"/>
 
-# 👋 Hi, I'm **Sim Vibol**
+<br>
 
-### 💻 Web Developer | React.js | Next.js | TypeScript
+# Hi, I'm Sim Vibol 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Web+Developer;React.js+%7C+Next.js+Developer;Building+Modern+Web+Applications;Creating+Clean+%26+Responsive+UI;Full-Stack+Development;Always+Learning+%26+Building+%F0%9F%9A%80" />
+### Frontend Developer · Full-Stack Developer · Software Development Student
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React.js+%7C+Next.js+%7C+TypeScript;Laravel+%7C+Java+Spring+Boot;Clean+UI+%7C+REST+API;Always+Learning+%26+Building+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=vibol-YT&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge"/>
+<br>
+
+<a href="https://github.com/vibol-YT">
+<img src="https://img.shields.io/badge/GitHub-vibol--YT-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vibol-YT&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -18,64 +30,38 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development student and Web Developer** passionate about building modern, responsive, and user-friendly web applications.
+I'm a **Software Development student and Web Developer** focused on creating modern, responsive, and user-friendly web applications.
 
-```javascript
-const vibol = {
-    role: "Web Developer",
-    education: "Software Development Student",
+I enjoy working across the full development process — from **designing interfaces** to building **REST APIs and backend systems**.
 
-    frontend: [
-        "React.js",
-        "Next.js",
-        "JavaScript",
-        "TypeScript",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "PHP",
-        "Laravel"
-    ],
-
-    database: [
-        "MySQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Figma",
-        "Docker"
-    ],
-
-    currentlyLearning: [
-        "Next.js",
-        "TypeScript",
-        "AI Integration"
-    ]
-};
-```
+* 🎓 Software Development Student
+* 💻 Focused on Web Development
+* 🎨 Interested in modern UI/UX
+* 🔌 Building REST APIs
+* 🚀 Learning and building full-stack applications
+* 🤖 Exploring AI integration
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Front-End
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 
-### Back-End
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=laravel,spring,java" />
+
+<br><br>
 
 ### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,docker" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma,docker" />
 
 </div>
 
@@ -83,39 +69,53 @@ const vibol = {
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 📦 Inventory Management System
 
-Full-stack inventory system for managing products, categories, stock, and inventory data.
+A full-stack inventory application for managing products, stock, categories, and inventory data.
 
-**Tech:** `React.js` `Node.js` `Express.js` `MySQL` `Tailwind CSS` `Swagger`
+**Built with**
+
+`React.js` `Node.js` `MySQL`
 
 **Features**
 
-* 📦 Product CRUD
-* 🏷️ Category Management
-* 📊 Stock Management
-* 🔎 Search & Pagination
-* 🔌 REST API
-* 📚 Swagger Documentation
-* 📱 Responsive Dashboard
+* Product management
+* Stock management
+* Category management
+* Search & pagination
+* REST API
+* Swagger documentation
+* Responsive dashboard
 
----
+</td>
+
+<td width="50%">
 
 ### 🛒 Product Management System
 
-Full-stack product management application with dashboard analytics and REST API integration.
+A modern product management application with dashboard analytics and REST API integration.
 
-**Tech:** `React.js` `Laravel` `MySQL` `Tailwind CSS`
+**Built with**
+
+`React.js` `Laravel` `MySQL`
 
 **Features**
 
-* 📦 Product Management
-* 🏷️ Category Management
-* 📊 Inventory Tracking
-* 📈 Dashboard Analytics
-* 🔌 REST API
-* 🖼️ Image Upload
-* 📱 Responsive UI
+* Product CRUD
+* Category management
+* Inventory tracking
+* Dashboard analytics
+* REST API
+* Image upload
+* Responsive UI
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -123,51 +123,19 @@ Full-stack product management application with dashboard analytics and REST API 
 
 <div align="center">
 
-`Next.js` · `TypeScript` · `Node.js` · `REST API` · `MySQL` · `AI Integration`
+**Next.js** · **TypeScript** · **Java Spring Boot** · **REST API** · **Database Design** · **AI Integration**
 
 </div>
 
 ---
 
-## 🎯 Goal
+## 📈 GitHub Activity
 
 <div align="center">
 
-### 🚀 Become a Professional Full-Stack Developer
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vibol-YT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-**Build → Learn → Improve → Repeat**
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vibol-YT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibol-YT&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/vibol-YT">
-<img src="https://img.shields.io/badge/GitHub-vibol--YT-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://facebook.com/your-facebook">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibol-YT&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,8 +143,12 @@ Full-stack product management application with dashboard analytics and REST API 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:0EA5E9,100:0F172A&height=120&section=footer"/>
+**Build. Learn. Improve. Repeat.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
